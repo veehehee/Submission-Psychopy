@@ -1,0 +1,39 @@
+participant: Participant ID
+order: control_first
+sounds: ['control', 'gamma']
+screen_width_cm: 30.0
+viewing_distance_cm: 57.0
+screen_resolution_px: [1920 1200]
+frame_rate_hz: 60.01
+audio_device: Headphones (WH-CH720N)
+audio_sample_rate_hz: 44100
+carrier_hz: 340.0
+binaural_beat_hz: 40.0
+gamma_left_hz: 320.0
+gamma_right_hz: 360.0
+control_left_hz: 340.0
+control_right_hz: 340.0
+tone_amplitude_digital: 0.25
+white_noise_sd_digital: 0.05
+audio_levels_calibrated_db_spl: NO
+lead_in_seconds: 90.0
+break_seconds: 60.0
+arrow_width_degrees: 0.8
+near_gap_degrees: 0.1
+far_gap_degrees: 1.0
+practice_trials_per_block: 25
+experimental_trials_per_condition: 80
+trials_per_cell_per_condition: 10
+practice_feedback: False
+debug_short: False
+order: control_first
+audio_underflows_control: 0
+audio_restarts_control: 0
+audio_callback_error_control: 
+break_skipped: False
+break_elapsed_seconds: 60.0
+break_scheduled_seconds: 60.0
+audio_underflows_gamma: 0
+audio_restarts_gamma: 0
+audio_callback_error_gamma: 
+debrief_guess: second_sound

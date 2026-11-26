@@ -1,0 +1,5 @@
+participant,sound,condition_number,time,pleasure,arousal
+Participant ID,control,1,pre,0,0
+Participant ID,control,1,post,-3,-3
+Participant ID,gamma,2,pre,-2,-2
+Participant ID,gamma,2,post,1,0
